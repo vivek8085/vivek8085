@@ -23,11 +23,17 @@ With hands-on experience at **IBM**, **Shell**, and **Microsoft Collaborative Pr
 ## 🧠 Skills
 
 **Languages:** Java • Python • C • JavaScript
+
 **Data Science:** SQL • Data Analysis • Data Visualization • DBMS
+
 **AI/ML:** Deep Learning • Machine Learning • NLP • Analytics
+
 **Frontend:** React • Tailwind • Bootstrap • HTML • CSS
+
 **Backend:** Node.js • Django • PHP • JDBC • MySQL • MongoDB
+
 **Cloud:** Google Cloud • AWS
+
 **Others:** Git • UI/UX • Cybersecurity (EH) • TPM • Hosting Tools
 
 ---
@@ -39,6 +45,7 @@ With hands-on experience at **IBM**, **Shell**, and **Microsoft Collaborative Pr
 
 **🔹 Shell India Markets Pvt. Ltd. & Edunet Foundation** — *Apr 2025 – May 2025*
 🔥 Developed **Forest Fire Detection** using CNN and TensorFlow achieving **90%+ accuracy**.
+
 🌿 Created **Plant Disease Detection** with real-time inference (<2 sec latency) for sustainable agriculture.
 
 **🔹 IBM SkillBuild & Edunet Foundation** — *Jun 2025 – Jul 2025*
@@ -98,4 +105,5 @@ Code ➡️ Train ➡️ Deploy ➡️ Automate ➡️ Monitor ➡️ Improve
 ---
 
 ⭐ **Let's Collaborate!**
+
 If you're into AI, Full Stack, or Cloud — let's connect and build something impactful. 🚀
