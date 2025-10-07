@@ -42,17 +42,16 @@ With hands-on experience at **IBM**, **Shell**, and **Microsoft Collaborative Pr
 
 **🔹 TechSaksham (Microsoft & Edunet Foundation)** — *Nov 2024 – Dec 2024*
 
-🩺 Built *Care-Genie*, an NLP-powered chatbot for hospital management with **92%+ accuracy** in classifying medical and administrative queries.
+* 🩺 Built *Care-Genie*, an NLP-powered chatbot for hospital management with **92%+ accuracy** in classifying medical and administrative queries.
 
 **🔹 Shell India Markets Pvt. Ltd. & Edunet Foundation** — *Apr 2025 – May 2025*
 
-🔥 Developed **Forest Fire Detection** using CNN and TensorFlow achieving **90%+ accuracy**.
-
-🌿 Created **Plant Disease Detection** with real-time inference (<2 sec latency) for sustainable agriculture.
+* 🔥 Developed **Forest Fire Detection** using CNN and TensorFlow achieving **90%+ accuracy**.
+* 🌿 Created **Plant Disease Detection** with real-time inference (<2 sec latency) for sustainable agriculture.
 
 **🔹 IBM SkillBuild & Edunet Foundation** — *Jun 2025 – Jul 2025*
 
-📊 Engineered an **Employee Salary Prediction System** using XGBoost with **88% predictive accuracy**, deployed as an interactive Streamlit dashboard.
+* 📊 Engineered an **Employee Salary Prediction System** using XGBoost with **88% predictive accuracy**, deployed as an interactive Streamlit dashboard.
 
 ---
 
