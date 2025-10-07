@@ -41,14 +41,17 @@ With hands-on experience at **IBM**, **Shell**, and **Microsoft Collaborative Pr
 ## 💼 Experience
 
 **🔹 TechSaksham (Microsoft & Edunet Foundation)** — *Nov 2024 – Dec 2024*
+
 🩺 Built *Care-Genie*, an NLP-powered chatbot for hospital management with **92%+ accuracy** in classifying medical and administrative queries.
 
 **🔹 Shell India Markets Pvt. Ltd. & Edunet Foundation** — *Apr 2025 – May 2025*
+
 🔥 Developed **Forest Fire Detection** using CNN and TensorFlow achieving **90%+ accuracy**.
 
 🌿 Created **Plant Disease Detection** with real-time inference (<2 sec latency) for sustainable agriculture.
 
 **🔹 IBM SkillBuild & Edunet Foundation** — *Jun 2025 – Jul 2025*
+
 📊 Engineered an **Employee Salary Prediction System** using XGBoost with **88% predictive accuracy**, deployed as an interactive Streamlit dashboard.
 
 ---
@@ -76,8 +79,11 @@ With hands-on experience at **IBM**, **Shell**, and **Microsoft Collaborative Pr
 ## 🏆 Achievements
 
 🏅 **Google Cloud Arcade (Legend Tier)** — Completed 400+ labs & 85+ skill badges.
+
 🥇 **National Science Day Hackathon (1st Place)** — Built Smart Hotel Management App.
+
 🥈 **Odyssey Hackathon (2nd Place)** — Real-time AI problem-solving.
+
 🥉 **IEEE Quiz Competition (3rd Place)** — Cybersecurity domain.
 
 ---
@@ -92,7 +98,7 @@ Code ➡️ Train ➡️ Deploy ➡️ Automate ➡️ Monitor ➡️ Improve
 
 ## 📊 GitHub Stats
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek8085\&show_icons=true\&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek8085\&show_icons=true\&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek8085\&layout=compact\&theme=radical)
 ![Streak Stats](https://streak-stats.demolab.com/?user=vivek8085\&theme=radical)
 
