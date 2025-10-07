@@ -1,8 +1,11 @@
 # 👨‍💻 Vivek Lokolakar
 
 🎯 **AI | Full Stack | Deep Learning | Cloud | Cybersecurity (EH)**
+
 📍 *Computer Science & Engineering Student @ Jain College of Engineering (CGPA: 9.16)*
-📫 **[viveklokolakar@gmail.com](mailto:viveklokolakar@gmail.com)** | 🌐 [Portfolio](https://viveksl.onrender.com) | 💼 [LinkedIn](https://www.linkedin.com/in/viveklokolakar) | 🧠 [GitHub](https://github.com/vivek8085)
+
+📫 **[viveklokolakar@gmail.com](mailto:viveklokolakar@gmail.com)** | 🌐 [Portfolio](https://viveksl.onrender.com) | 💼 [LinkedIn](https://www.linkedin.com/in/viveklokolakar) | 
+🧠 [GitHub](https://github.com/vivek8085)
 
 ---
 
@@ -56,7 +59,9 @@ With hands-on experience at **IBM**, **Shell**, and **Microsoft Collaborative Pr
 ## 🎓 Education
 
 🎓 **B.E. Computer Science & Engineering** — *Jain College of Engineering, Belagavi (2022–2026)* — **CGPA: 9.16**
+
 🎓 **PUC Science** — *K.L.E’s CS Angadi Science PU College (2020–2022)* — **86.87%**
+
 🎓 **SSLC** — *Shri Saraswati Kannada Medium School (2019–2020)* — **96.96%**
 
 ---
