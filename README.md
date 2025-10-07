@@ -37,7 +37,7 @@ Google Cloud | AWS | Git | Streamlit | Hosting Tools
 
 ## 💡 Projects
 
-### 🏥 [Care-Genie Chatbot](https://github.com/vivek8085)
+### 🏥 [Care-Genie Chatbot](TechSaksham)
 
 Developed a hospital chatbot using **NLP** and **Logistic Regression** with 92%+ accuracy in classifying queries.
 
