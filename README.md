@@ -2,7 +2,7 @@
 
 🎯 **AI | Full Stack | Deep Learning | Cloud | Cybersecurity (EH)**
 
-📍 *Computer Science & Engineering Student @ Jain College of Engineering (CGPA: 9.16)*
+📍 *Computer Science & Engineering Student @ Jain College of Engineering (CGPA: 9.27)*
 
 📫 **[viveklokolakar@gmail.com](mailto:viveklokolakar@gmail.com)** | 🌐 [Portfolio](https://viveksl.onrender.com) | 💼 [LinkedIn](https://www.linkedin.com/in/viveklokolakar) | 
 🧠 [GitHub](https://github.com/vivek8085)
